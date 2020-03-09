@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581860453 source:c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp4\tp4\main.cpp
+	<iostream>
+	"doublelinkedlist.cpp"
+
+1581896622 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp4\tp4\doublelinkedlist.cpp
+	<iostream>
+	"doublelinkedlist.h"
+
+1581859860 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp4\tp4\doublelinkedlist.h
+

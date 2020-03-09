@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581096823 source:c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp3\tp3\main.cpp
+	"perpustakaan.cpp"
+
+1581154656 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp3\tp3\perpustakaan.cpp
+	"Perpustakaan.h"
+
+1581092598 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp3\tp3\perpustakaan.h
+	<iostream>
+

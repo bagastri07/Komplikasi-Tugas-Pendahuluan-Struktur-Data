@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1582468148 source:c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp5\tp5\main.cpp
+	<iostream>
+	"cdll.cpp"
+
+1582468479 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp5\tp5\cdll.cpp
+	<iostream>
+	"cdll.h"
+
+1582468459 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp5\tp5\cdll.h
+
+1582297999 source:c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp5\tp5\cdll.cpp
+	<iostream>
+	"cdll.h"
+

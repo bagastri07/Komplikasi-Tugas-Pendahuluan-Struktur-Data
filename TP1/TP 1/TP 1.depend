@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1579973344 source:c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp1\tp 1\main.cpp
+	"hello.h"
+	"hello.cpp"
+
+1580059994 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp1\tp 1\hello.h
+	<iostream>
+	<cstdlib>
+
+1580052315 c:\users\bagas\onedrive\documents\tugas kuliah\s1 informatika\semester 2\stuktur data\tugas pendahuluan\tp1\tp 1\hello.cpp
+	"hello.h"
+
